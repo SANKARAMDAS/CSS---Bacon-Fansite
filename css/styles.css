@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: red;
+    font-size: 100px;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+.bacon {
+    background-color: greenyellow;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+.broccoli-on-white {
+    background-color: blue;
+}
+/************Heading**********/
+#heading{
+    color: black;
+}
